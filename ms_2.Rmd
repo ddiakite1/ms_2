@@ -1,0 +1,17 @@
+---
+title: "ms_2"
+author: "Diassa Diakite"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Milestone 2 - Diassa Diakité
+
+### Anan Hafez: An Analysis of 3-Pointers in the NBA
+  The first project I decided to look at was *An Analysis of 3-Pointers in the NBA* by Anan Hafez. As a  fan of basketball, I loved the idea to investigate the trend of teams taking many more 3-point shots as time has passed. I think one pro of this project was its multitude of different models and statistics used. The project digs very deeply into the question, venturing from 3-pointer point shares over time, to looking at accuracy and even effects on contracts. One of the cons of the project was that the option to show a coefficient table in the salary section did not work.
+  
+### Bernadette Stadler: Equal Work, Equal Pay? The State of Women's Soccer in 2019
+  The second project I decided to look at was *Equal Work, Equal Pay? The State of Wome's Soccer in 2019* by Bernadette Stadler. Immediately, I liked that the shinyapp had many different types of graphs, and is very organized with explanations as well. The project collected data from various different news sources, and painted the narrative that women's soccer players make less money than men's soccer players for the same or similar accomplishments. I like how the project started off with women's soccer in the United States, and in the next section addressed women's soccer globally. One thing I questioned about the project was that it did not include data on the income of the corperations running both the men's and women's soccer leagues and tournaments. 
